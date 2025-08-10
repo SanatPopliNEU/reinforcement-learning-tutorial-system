@@ -500,7 +500,7 @@ MIT License - See LICENSE file for details
 ## 👥 **Author**
 
 **Sanat Popli**  
-*Reinforcement Learning for Agentic AI Systems - Take-Home Final*
+*Reinforcement Learning for Agentic AI Systems *
 
 **Project Completion**: 100% of assignment requirements fulfilled with distinction
 
