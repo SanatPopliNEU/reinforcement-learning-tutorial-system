@@ -424,6 +424,30 @@ class StudentResultsManager:
             self.save_json_data(self.sessions_file, recent_sessions)
             removed_count = len(sessions) - len(recent_sessions)
             print(f"🗑️ Cleaned up {removed_count} old session records")
+    
+    def record_interaction(self, interaction_data: Dict[str, Any]):
+        """Record a single interaction (FastAPI web interface compatibility)"""
+        try:
+            # Load existing interactions
+            interactions = self.load_json_data(self.interactions_file)
+            
+            # Add new interaction
+            interactions.append(interaction_data)
+            
+            # Save updated interactions
+            self.save_json_data(self.interactions_file, interactions)
+            
+            print(f"💾 Recorded interaction for session {interaction_data.get('session_id', 'unknown')}")
+        except Exception as e:
+            print(f"⚠️ Error recording interaction: {e}")
+    
+    def get_all_interactions(self) -> List[Dict[str, Any]]:
+        """Get all recorded interactions (FastAPI web interface compatibility)"""
+        return self.load_json_data(self.interactions_file)
+    
+    def get_all_sessions(self) -> List[Dict[str, Any]]:
+        """Get all recorded sessions (FastAPI web interface compatibility)"""
+        return self.load_json_data(self.sessions_file)
 
 # Example usage and testing
 if __name__ == "__main__":

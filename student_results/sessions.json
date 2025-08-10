@@ -100,5 +100,40 @@
     "improvement_trend": "stable",
     "engagement_level": "medium",
     "agent_coordination_mode": "collaborative"
+  },
+  {
+    "session_id": "002201005_20250810_184848",
+    "student_id": "002201005",
+    "start_time": "2025-08-10T18:48:54.273132",
+    "end_time": "2025-08-10T18:56:40.121456",
+    "duration_minutes": 0.0,
+    "total_interactions": 7,
+    "topics_covered": [
+      "mathematics",
+      "science"
+    ],
+    "difficulties_attempted": [],
+    "average_reward": 0.642857142857143,
+    "total_reward": 4.500000000000001,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "hierarchical"
+  },
+  {
+    "session_id": "123456_20250810_190447",
+    "student_id": "123456",
+    "start_time": "2025-08-10T19:04:53.563558",
+    "end_time": "2025-08-10T19:06:22.467557",
+    "duration_minutes": 0.0,
+    "total_interactions": 7,
+    "topics_covered": [
+      "mathematics"
+    ],
+    "difficulties_attempted": [],
+    "average_reward": 0.7999999999999999,
+    "total_reward": 5.6,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "competitive"
   }
 ]
