@@ -1,0 +1,134 @@
+[
+  {
+    "student_id": "DEMO001",
+    "student_name": "Demo Student",
+    "evaluation_date": "2025-08-09T23:56:40.912356",
+    "overall_performance": 0.9748289016294951,
+    "topic_performance": {
+      "mathematics": 0.8902400000000001,
+      "science": 0.84128,
+      "programming": 0.9279680000000001,
+      "language": 0.5
+    },
+    "difficulty_performance": {
+      "easy": 0.7281600000000001,
+      "medium": 1.0500247040000004,
+      "hard": 0.6880000000000001
+    },
+    "learning_velocity": 0.5797440000000003,
+    "engagement_score": 1.0,
+    "total_sessions": 7,
+    "total_interactions": 14,
+    "correct_responses": 14,
+    "detailed_responses": 12,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "programming",
+      "mathematics"
+    ],
+    "improvement_areas": [
+      "language"
+    ],
+    "strength_areas": [
+      "mathematics",
+      "programming"
+    ],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "DEMO001",
+    "student_name": "Demo Student",
+    "evaluation_date": "2025-08-09T23:57:09.026082",
+    "overall_performance": 1.0092596698928251,
+    "topic_performance": {
+      "mathematics": 0.7952000000000001,
+      "science": 0.8384,
+      "programming": 0.8710131200000002,
+      "language": 0.7952
+    },
+    "difficulty_performance": {
+      "easy": 0.8951424000000001,
+      "medium": 0.94474112,
+      "hard": 0.7744000000000001
+    },
+    "learning_velocity": 0.6499065600000002,
+    "engagement_score": 1.0,
+    "total_sessions": 7,
+    "total_interactions": 14,
+    "correct_responses": 14,
+    "detailed_responses": 12,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "programming",
+      "mathematics"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "DEMO001",
+    "student_name": "Demo Student",
+    "evaluation_date": "2025-08-09T23:59:17.829937",
+    "overall_performance": 1.026282085832634,
+    "topic_performance": {
+      "mathematics": 0.84128,
+      "science": 0.8672000000000002,
+      "programming": 0.8902400000000001,
+      "language": 0.7952
+    },
+    "difficulty_performance": {
+      "easy": 0.7670400000000002,
+      "medium": 1.0726016000000003,
+      "hard": 0.8723200000000001
+    },
+    "learning_velocity": 0.6969600000000002,
+    "engagement_score": 1.0,
+    "total_sessions": 7,
+    "total_interactions": 14,
+    "correct_responses": 14,
+    "detailed_responses": 12,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "programming",
+      "mathematics"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "002201005",
+    "student_name": "sanat",
+    "evaluation_date": "2025-08-10T00:02:30.721661",
+    "overall_performance": 0.4270579670000002,
+    "topic_performance": {
+      "mathematics": 0.42000000000000004,
+      "science": 0.44696000000000013,
+      "programming": 0.5444000000000001,
+      "language": 0.42000000000000004
+    },
+    "difficulty_performance": {
+      "easy": 0.42000000000000004,
+      "medium": 0.4734944000000001,
+      "hard": 0.4
+    },
+    "learning_velocity": -0.08431999999999984,
+    "engagement_score": 0.42299999999999993,
+    "total_sessions": 1,
+    "total_interactions": 7,
+    "correct_responses": 2,
+    "detailed_responses": 0,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "mathematics"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "reading"
+  }
+]

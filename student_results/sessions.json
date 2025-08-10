@@ -1,0 +1,80 @@
+[
+  {
+    "session_id": "002201005_20250809_234944",
+    "student_id": "002201005",
+    "start_time": "2025-08-09T23:49:44.115593",
+    "end_time": "2025-08-09T23:50:14.143692",
+    "duration_minutes": 0.500405740737915,
+    "total_interactions": 7,
+    "topics_covered": [
+      "mathematics",
+      "science",
+      "programming",
+      "language"
+    ],
+    "difficulties_attempted": [
+      "easy",
+      "medium",
+      "hard"
+    ],
+    "average_reward": 0.10428571428571429,
+    "total_reward": 0.73,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "collaborative"
+  },
+  {
+    "session_id": "DEMO001_20250809_235708",
+    "student_id": "DEMO001",
+    "start_time": "",
+    "end_time": "2025-08-09T23:57:09.028379",
+    "duration_minutes": 0.0,
+    "total_interactions": 7,
+    "topics_covered": [],
+    "difficulties_attempted": [],
+    "average_reward": 0.0,
+    "total_reward": 0.0,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "collaborative"
+  },
+  {
+    "session_id": "DEMO001_20250809_235917",
+    "student_id": "DEMO001",
+    "start_time": "",
+    "end_time": "2025-08-09T23:59:17.832362",
+    "duration_minutes": 0.0,
+    "total_interactions": 7,
+    "topics_covered": [],
+    "difficulties_attempted": [],
+    "average_reward": 0.0,
+    "total_reward": 0.0,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "collaborative"
+  },
+  {
+    "session_id": "002201005_20250809_235942",
+    "student_id": "002201005",
+    "start_time": "2025-08-09T23:59:42.488375",
+    "end_time": "2025-08-10T00:02:30.719626",
+    "duration_minutes": 2.8038310488065084,
+    "total_interactions": 7,
+    "topics_covered": [
+      "mathematics",
+      "science",
+      "programming",
+      "language"
+    ],
+    "difficulties_attempted": [
+      "easy",
+      "medium",
+      "hard"
+    ],
+    "average_reward": 0.39,
+    "total_reward": 2.73,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "competitive"
+  }
+]
