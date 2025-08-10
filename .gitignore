@@ -80,7 +80,6 @@ data/*.json
 
 # Results that are too large
 results/large_experiments/
-results/*.png
 results/*.pdf
 
 # Keep student_results but ignore large files
