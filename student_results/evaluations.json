@@ -198,5 +198,36 @@
       "programming"
     ],
     "learning_style": "reading"
+  },
+  {
+    "student_id": "645321",
+    "student_name": "nik brown",
+    "evaluation_date": "2025-08-11T12:20:21.766189",
+    "overall_performance": 0.2925063010000001,
+    "topic_performance": {
+      "mathematics": 0.3576000000000001,
+      "science": 0.3560000000000001,
+      "programming": 0.3560000000000001,
+      "language": 0.42200000000000004
+    },
+    "difficulty_performance": {
+      "easy": 0.26384000000000013,
+      "medium": 0.3596000000000001,
+      "hard": 0.4
+    },
+    "learning_velocity": -0.25419999999999987,
+    "engagement_score": 0.22199999999999978,
+    "total_sessions": 1,
+    "total_interactions": 7,
+    "correct_responses": 0,
+    "detailed_responses": 0,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "1"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "visual"
   }
 ]

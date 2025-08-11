@@ -176,5 +176,29 @@
     "improvement_trend": "stable",
     "engagement_level": "medium",
     "agent_coordination_mode": "competitive"
+  },
+  {
+    "session_id": "645321_20250811_121933",
+    "student_id": "645321",
+    "start_time": "2025-08-11T12:19:33.061404",
+    "end_time": "2025-08-11T12:20:21.763269",
+    "duration_minutes": 0.8116433620452881,
+    "total_interactions": 7,
+    "topics_covered": [
+      "mathematics",
+      "science",
+      "programming",
+      "language"
+    ],
+    "difficulties_attempted": [
+      "easy",
+      "medium",
+      "hard"
+    ],
+    "average_reward": 0.10285714285714286,
+    "total_reward": 0.72,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "hierarchical"
   }
 ]
